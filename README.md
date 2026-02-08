@@ -1,30 +1,49 @@
-# AMAN AJA STORE 🚀
+# 🕹️ AMAN AJA STORE - Trusted Game Top-Up Platform
 
-**AMAN AJA STORE** adalah platform top up game terpercaya di Indonesia. Kami menyediakan layanan top up untuk berbagai game populer dengan proses cepat, aman, dan harga bersaing. Website ini dibuat menggunakan **HTML, CSS, dan JavaScript murni** dengan simulasi backend menggunakan **LocalStorage**.
-
----
-
-## 🔹 Fitur Utama
-
-- Top Up berbagai game populer: Mobile Legends, Free Fire, PUBG, Valorant, Genshin Impact, dan lainnya.
-- Sistem user: Register, Login, Dashboard, Riwayat Transaksi.
-- Dashboard admin: CRUD game, approve top up, kelola produk.
-- Animasi modern dan interaktif (hero section, background grid, floating shapes).
-- Responsive: Bisa diakses di desktop dan mobile.
-- Notifikasi toast interaktif.
-- Modal untuk login, register, dan fitur tambahan.
-- Tabel dan statistik pengguna serta transaksi.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 ---
 
-## 💻 Cara Menjalankan Website
+## 🌟 Project Overview
 
-> ⚠️ **PENTING:** Website **tidak bisa dibuka langsung** dengan klik 2x file `index.html`. Semua fitur JavaScript SPA dan LocalStorage membutuhkan **local server**.
+**AMAN AJA STORE** is a safe and reliable platform for game top-ups in Indonesia. It supports multiple games, provides instant top-ups, and integrates various payment methods.  
 
-### 1️⃣ Menggunakan Live Server di VS Code (Recommended)
-1. Install **Visual Studio Code**.
-2. Install extension **Live Server**:
-   - Buka Extensions (`Ctrl+Shift+X`) → Cari `Live Server` → Install.
-3. Buka folder project di VS Code.
-4. Klik kanan `index.html` → pilih **“Open with Live Server”**.
-5. Browser akan terbuka otomatis di alamat seperti:
+This project is **fully frontend**, built using **HTML, CSS, and JavaScript**, with **LocalStorage** simulating a backend database.
+
+---
+
+## ⚙️ Features
+
+- ✅ User Authentication (Admin & Member)  
+- ✅ Browse Game List & Price List  
+- ✅ Instant Top-Up Simulation  
+- ✅ Transaction History & Management  
+- ✅ Admin CRUD: Add/Edit/Delete Games & Products  
+- ✅ Responsive Design for Desktop & Mobile  
+- ✅ Modal Popups & Toast Notifications  
+
+---
+
+## 🖥️ Step-by-Step: How to Run Locally
+
+Even if you **have never coded before**, follow these steps:
+
+### 1️⃣ Install VS Code
+- Download from [https://code.visualstudio.com/](https://code.visualstudio.com/)  
+- Install using the default options.
+
+### 2️⃣ Install Live Server Extension
+1. Open VS Code  
+2. Go to **Extensions** (`Ctrl+Shift+X`)  
+3. Search for **"Live Server"**  
+4. Click **Install**
+
+### 3️⃣ Clone the Project
+Open **Command Prompt / Terminal** and type:
+
+```bash
+git clone https://github.com/yourusername/aman-aja-store.git
+cd aman-aja-store
