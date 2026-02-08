@@ -47,3 +47,17 @@ Open **Command Prompt / Terminal** and type:
 ```bash
 git clone https://github.com/yourusername/aman-aja-store.git
 cd aman-aja-store
+
+```
+###4️⃣ Run the project on browser
+
+Open the index.html file in VS Code
+
+Right-click → Open with Live Server
+
+Your default browser will open:
+
+http://127.0.0.1:5500/index.html
+
+
+Now you can see the AMAN AJA STORE website running locally
