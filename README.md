@@ -47,9 +47,9 @@ Open **Command Prompt / Terminal** and type:
 ```bash
 git clone https://github.com/yourusername/aman-aja-store.git
 cd aman-aja-store
-
-
-###4️⃣ Run the project on browser
+```
+---
+#### 4️⃣ Run the project on browser
 
 1.Open the index.html file in VS Code
 2.Right-click → Open with Live Server
