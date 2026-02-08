@@ -50,10 +50,10 @@ cd aman-aja-store
 ```
 ---
 
-###4️⃣ Run the project on browser
+**###4️⃣ Run the project on browser**
 
 1.Open the index.html file in VS Code
 2.Right-click → Open with Live Server
 3.Your default browser will open:
 4.http://127.0.0.1:5500/index.html
-5.Now you can see the AMAN AJA STORE website running locally
+5.NoW you can see the AMAN AJA STORE website running locally
